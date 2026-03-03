@@ -1,0 +1,9 @@
+bin/
+*.class
+.metadata/
+.recommenders/
+.settings/
+.project
+.classpath
+*.jar
+!mysql-connector-j-9.6.0.jar
